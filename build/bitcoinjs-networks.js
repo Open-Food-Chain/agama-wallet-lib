@@ -429,7 +429,7 @@ var networks = (_networks = {
       1: 0x00,
       2: 0x00,
       3: 0x5ba81b19,
-      4: 0x2bb40e60
+      4: 0xE9FF75A6
     },
     dustThreshold: 1000,
     isZcash: true,
@@ -543,7 +543,7 @@ var networks = (_networks = {
       "public": 0x0488b21e,
       "private": 0x0488ade4
     },
-    pubKeyHash: 0x0,
+    pubKeyHash: 0x3,
     scriptHash: 0x5,
     wif: 0x80,
     dustThreshold: 1000
